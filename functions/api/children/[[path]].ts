@@ -40,6 +40,9 @@ export async function onRequestGet(context) {
       folders = folders.filter((folder) =>
         allowList.some((allow) => folder.startsWith(allow))
       );
+      for (const allow of allowList) {
+        if (!folders.includes(allow)) folders.push(allow);
+      }
     }
 
     return new Response(JSON.stringify({ value: objKeys, folders }), {
