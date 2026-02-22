@@ -8,7 +8,7 @@ FlareDrive-R2 是基于 Cloudflare R2 + Workers 构建的在线网盘系统，�
 - 目录级访问控制
 - 静态文件托管
 
-> 📌 本项目修改自 [Cloudflare-R2-oss](https://github.com/ljxi/Cloudflare-R2-oss)，实现了更加美观的前端页面，本人并不擅长`CF Worker`开发，所以如果有功能方面的需求，请在上游仓库提出。
+> 📌 本项目修改自 [FlareDrive-R2](https://github.com/willow-god/FlareDrive-R2)，本人并不擅长`CF Worker`开发，所以如果有功能方面的需求，请在上游仓库提出。
 
 ### 🚀 快速部署
 
