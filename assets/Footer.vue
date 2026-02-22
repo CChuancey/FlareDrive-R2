@@ -23,7 +23,7 @@
       <strong>项目:</strong><a href="https://github.com/CChuancey/FlareDrive-R2.git" target="_blank"
         rel="noopener noreferrer">FlareDrive-R2</a>
       <strong>作者:</strong><a href="https://github.com/CChuancey" target="_blank"
-        rel="noopener noreferrer">LiuShen</a>
+        rel="noopener noreferrer">chuancey</a>
       <strong>初始项目:</strong><a href="https://github.com/willow-god/FlareDrive-R2" target="_blank"
         rel="noopener noreferrer">Cloudflare-R2-OSS</a>
     </div>
@@ -40,10 +40,10 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://www.liushen.fun/",
-      blogUrl: "https://blog.liushen.fun/",
-      githubUrl: "https://github.com/willow-god",
-      emailUrl: "mailto:01@liushen.fun"
+      homeUrl: "https://cchuancey.github.io/",
+      blogUrl: "https://cchuancey.github.io/",
+      githubUrl: "https://github.com/CChuancey",
+      emailUrl: "mailto:cchuancey@163.com"
     };
   }
 };
